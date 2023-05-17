@@ -1,15 +1,15 @@
 {
   "name": "nav",
   "version": "6.0.1",
-  "author": "xiejiahe",
+  "author": "dazer007",
   "bugs": {
-    "url": "https://github.com/xjh22222228/nav/issues"
+    "url": "https://github.com/dazer007/nav/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xjh22222228/nav.git"
+    "url": "git+https://github.com/dazer007/nav.git"
   },
-  "homepage": "https://github.com/xjh22222228/nav",
+  "homepage": "https://github.com/dazer007/nav",
   "scripts": {
     "ng": "ng",
     "start": "ng serve --port=7001",

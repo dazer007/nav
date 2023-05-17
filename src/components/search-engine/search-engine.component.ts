@@ -1,4 +1,4 @@
-// Copyright @ 2018-2022 xiejiahe. All rights reserved. MIT license.
+// Copyright @ 2018-2022 dazer007. All rights reserved. MIT license.
 
 import hotkeys from 'hotkeys-js'
 import { Component } from '@angular/core'

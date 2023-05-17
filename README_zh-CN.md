@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://nav3.cn/?g">
+  <a href="https://nav.ityun.ltd/?g">
     <img src="src/assets/logo.png" width="130" />
   </a>
   <br />
@@ -11,10 +11,10 @@
     <a href="README.md">
       <img src="https://img.shields.io/badge/lang-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-red.svg?longCache=true&style=flat-square">
     </a>
-    <img src="https://img.shields.io/github/v/release/xjh22222228/nav" />
-    <a href="https://github.com/xjh22222228/nav/stargazers"><img src="https://img.shields.io/github/stars/xjh22222228/nav" alt="Stars"/></a>
+    <img src="https://img.shields.io/github/v/release/dazer007/nav" />
+    <a href="https://github.com/dazer007/nav/stargazers"><img src="https://img.shields.io/github/stars/dazer007/nav" alt="Stars"/></a>
     <img alt="Angular" src="https://img.shields.io/static/v1.svg?label=&message=Angular11&style=flat-square&color=C82B38">
-    <img src="https://img.shields.io/github/license/xjh22222228/nav" />
+    <img src="https://img.shields.io/github/license/dazer007/nav" />
   </p>
 </p>
 
@@ -25,10 +25,10 @@
 ## 预览
 **主 题**
 
-- [Sim 在线预览](https://nav3.cn/#/sim)
-- [Light 在线预览](https://nav3.cn/#/light)
-- [Side 在线预览](https://nav3.cn/#/side)
-- [App 在线预览](https://nav3.cn/#/app)
+- [Sim 在线预览](https://nav.ityun.ltd/#/sim)
+- [Light 在线预览](https://nav.ityun.ltd/#/light)
+- [Side 在线预览](https://nav.ityun.ltd/#/side)
+- [App 在线预览](https://nav.ityun.ltd/#/app)
 
 ![Preview](https://raw.githubusercontent.com/xjh22222228/public/gh-pages/nav/1.png)
 ![Preview](https://raw.githubusercontent.com/xjh22222228/public/gh-pages/nav/2.png)
@@ -114,7 +114,7 @@
 
 
 ## 更新日志
-[CHANGELOG](https://github.com/xjh22222228/nav/releases)
+[CHANGELOG](https://github.com/dazer007/nav/releases)
 
 
 
@@ -122,9 +122,10 @@
 
 
 ## 开发构建
+> 这里开发构建使用yarn, 使用pnpm报错
 ``` bash
 # 下载
-git clone --depth=1 https://github.com/xjh22222228/nav.git
+git clone --depth=1 https://github.com/dazer007/nav.git
 
 cd nav
 
@@ -141,7 +142,7 @@ yarn build
 
 
 ## 贡献
-Thank you for your [contribution](https://github.com/xjh22222228/nav/issues), men.
+Thank you for your [contribution](https://github.com/dazer007/nav/issues), men.
 
 <a href="https://github.com/YutHelloWorld">
   <img src="https://avatars1.githubusercontent.com/u/20860159?s=460&v=4" width="30px" height="30px" />
@@ -162,7 +163,7 @@ Thank you for your [contribution](https://github.com/xjh22222228/nav/issues), me
 
 
 ## 建议
-如果有任何功能上的建议可通过 [issue](https://github.com/xjh22222228/nav/issues) 发起, Thank you.
+如果有任何功能上的建议可通过 [issue](https://github.com/dazer007/nav/issues) 发起, Thank you.
 
 
 

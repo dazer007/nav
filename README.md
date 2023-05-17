@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://nav3.cn/?g">
+  <a href="https://nav.ityun.ltd/?g">
     <img src="src/assets/logo.png" width="130" />
   </a>
   <br />
@@ -11,10 +11,10 @@
     <a href="README_zh-CN.md">
       <img src="https://img.shields.io/badge/lang-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-red.svg?longCache=true&style=flat-square">
     </a>
-    <img src="https://img.shields.io/github/v/release/xjh22222228/nav" />
-    <a href="https://github.com/xjh22222228/nav/stargazers"><img src="https://img.shields.io/github/stars/xjh22222228/nav" alt="Stars"/></a>
+    <img src="https://img.shields.io/github/v/release/dazer007/nav" />
+    <a href="https://github.com/dazer007/nav/stargazers"><img src="https://img.shields.io/github/stars/dazer007/nav" alt="Stars"/></a>
     <img alt="Angular" src="https://img.shields.io/static/v1.svg?label=&message=Angular11&style=flat-square&color=C82B38">
-    <img src="https://img.shields.io/github/license/xjh22222228/nav" />
+    <img src="https://img.shields.io/github/license/dazer007/nav" />
   </p>
 </p>
 
@@ -25,10 +25,10 @@
 ## Preview
 **Themes**
 
-- [Sim online preview](https://nav3.cn/#/sim)
-- [Light online preview](https://nav3.cn/#/light)
-- [Side online preview](https://nav3.cn/#/side)
-- [App online preview](https://nav3.cn/#/app)
+- [Sim online preview](https://nav.ityun.ltd/#/sim)
+- [Light online preview](https://nav.ityun.ltd/#/light)
+- [Side online preview](https://nav.ityun.ltd/#/side)
+- [App online preview](https://nav.ityun.ltd/#/app)
 
 ![Preview](https://raw.githubusercontent.com/xjh22222228/public/gh-pages/nav/1.png)
 ![Preview](https://raw.githubusercontent.com/xjh22222228/public/gh-pages/nav/2.png)
@@ -111,7 +111,7 @@ Click the `Watch` button in the upper right corner to track the version upgrade 
 
 
 ## Update log
-[CHANGELOG](https://github.com/xjh22222228/nav/releases)
+[CHANGELOG](https://github.com/dazer007/nav/releases)
 
 
 
@@ -119,9 +119,10 @@ Click the `Watch` button in the upper right corner to track the version upgrade 
 
 
 ## Development and construction
+> used yarn only
 ``` bash
 # Download
-git clone --depth=1 https://github.com/xjh22222228/nav.git
+git clone --depth=1 https://github.com/dazer007/nav.git
 
 cd nav
 
@@ -138,7 +139,7 @@ yarn build
 
 
 ## contribute
-Thank you for your [contribution](https://github.com/xjh22222228/nav/issues), men.
+Thank you for your [contribution](https://github.com/dazer007/nav/issues), men.
 
 <a href="https://github.com/YutHelloWorld">
   <img src="https://avatars1.githubusercontent.com/u/20860159?s=460&v=4" width="30px" height="30px" />
@@ -159,7 +160,7 @@ Thank you for your [contribution](https://github.com/xjh22222228/nav/issues), me
 
 
 ## Suggest
-If you have any functional suggestions, you can initiate an [issue](https://github.com/xjh22222228/nav/issues), Thank you.
+If you have any functional suggestions, you can initiate an [issue](https://github.com/dazer007/nav/issues), Thank you.
 
 ## LICENSE
 [MIT](./LICENSE)
