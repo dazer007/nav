@@ -21,7 +21,7 @@
               {
                 "icon": "https://tuostudy.com/favicon.ico",
                 "name": "图欧资源导航",
-                "desc": "整合语文数学英语物理化学生物政治历史地理各个学科的资",
+                "desc": "整合语文数学英语物理化学生物政治历史地理各个学科的资源，大量PDF、音视频，直接下载查阅。",
                 "url": "https://tuostudy.com/",
                 "createdAt": "2021-01-23T01:32:06.424Z",
                 "urls": {},
@@ -31,7 +31,7 @@
               {
                 "icon": "https://api.iowen.cn/favicon/www.appinn.com.png",
                 "name": "开源工具导航",
-                "desc": "开源工具导航",
+                "desc": "LearnData开源工具导航nav.newzone.top；LearnData 开源笔记；ChatGPT Shortcut提示词（即 Prompt）；开源工具导航 | 收集最新的应用和科技，提升自我和工作效率",
                 "url": "https://nav.newzone.top/",
                 "createdAt": "2021-01-23T01:32:06.424Z",
                 "urls": {},
@@ -49,9 +49,9 @@
                 "top": false
               },
               {
-                "icon": "https://api.iowen.cn/favicon/www.appinn.com.png",
+                "icon": "https://api.iowen.cn/favicon/ai.com.png",
                 "name": "深度导航",
-                "desc": "深度导航，保罗万象",
+                "desc": "深度Ai导航|国内外Ai工具导航大全",
                 "url": "https://www.deepdhai.com/",
                 "createdAt": "2021-01-23T01:32:06.424Z",
                 "urls": {},
@@ -74,13 +74,13 @@
         "title": "导航站点",
         "nav": [
           {
-            "title": "Team",
+            "title": "常用转化工具",
             "nav": [
               {
                 "name": "favicon.ico 图标",
                 "icon": "http://www.ico51.cn/images/logo.png",
                 "url": "http://www.ico51.cn/",
-                "desc": "生成ico图标",
+                "desc": "在线生成透明ICO图标,PNG、jpeg、gif图片生成ICO图标",
                 "createdAt": "2021-01-23T01:32:06.424Z",
                 "urls": {},
                 "rate": 5,
@@ -88,9 +88,9 @@
               },
               {
                 "name": "ButterPig icopro",
-                "icon": "http://www.ico51.cn/images/logo.png",
+                "icon": "https://api.iowen.cn/favicon/www.butterpig.top.png",
                 "url": "https://www.butterpig.top/icopro",
-                "desc": "在线ICO图标制作",
+                "desc": "在线ICO图标制作,各种图片互转工具，图片压缩，WEBP转JPG; 麦克风摄像头测试工具；证件照换底色；批量智能压缩；图片生成BASE64;",
                 "createdAt": "2021-01-23T01:32:06.424Z",
                 "urls": {},
                 "rate": 5,
@@ -98,9 +98,9 @@
               },
               {
                 "name": "svg 图标生成",
-                "icon": "https://png2svg.com/images/png2svg/logo.svg",
-                "url": "https://png2svg.com/zh/  ",
-                "desc": "各种姊妹转化,其他格式转化",
+                "icon": "https://api.iowen.cn/favicon/png2svg.com.png",
+                "url": "https://png2svg.com/zh/",
+                "desc": "各种姊妹转化,其他格式转化; 各种图片和SVG格式互转；",
                 "createdAt": "2021-01-23T01:32:06.424Z",
                 "urls": {},
                 "rate": 5,
@@ -108,7 +108,7 @@
               },
               {
                 "name": "freeconvert",
-                "icon": "https://cdn.freeconvert.com/logo_theme.svg",
+                "icon": "https://api.iowen.cn/favicon/www.freeconvert.com.png",
                 "url": "https://www.freeconvert.com/",
                 "desc": "图片、视频、文档转换freeconvert",
                 "createdAt": "2021-01-23T01:32:06.424Z",
@@ -118,9 +118,19 @@
               },
               {
                 "name": "convertio.co",
-                "icon": "https://api.iowen.cn/favicon/www.appinn.com.png",
+                "icon": "https://api.iowen.cn/favicon/convertio.co.png",
                 "url": "https://convertio.co/zh/audio-converter/",
-                "desc": "图片、文档、音视频转换 convertio.co",
+                "desc": "图片、文档、音视频、电子书、归档文件转换 convertio.co；Image Converter、Online Video、Audio、Document、Ebook、Online Archive、Unit、Vector转化",
+                "createdAt": "2021-01-23T01:32:06.424Z",
+                "urls": {},
+                "rate": 5,
+                "top": false
+              },
+              {
+                "name": "一为@iowen",
+                "icon": "https://api.iowen.cn/favicon/https://api.iowen.cn.png",
+                "url": "https://api.iowen.cn/",
+                "desc": "获取在线网站的favicon、获取在线生成二维码",
                 "createdAt": "2021-01-23T01:32:06.424Z",
                 "urls": {},
                 "rate": 5,
