@@ -158,30 +158,14 @@ Thank you for your [contribution](https://github.com/dazer007/nav/issues), men.
 </a>
 
 
-
-
-
-
 ## 建议
 如果有任何功能上的建议可通过 [issue](https://github.com/dazer007/nav/issues) 发起, Thank you.
 
-
-
-## 支持
-项目成立于 2018 年到至今一直坚持维护和开源, 经过N次的迭代与优化, 如果项目能帮到您是我的荣幸。
-
-您可以请作者喝杯咖啡，继续战斗下去（请备注Github名字）~
-
-<img src="https://cdn.jsdelivr.net/gh/xjh22222228/public@gh-pages/img/32.png" width="600">
-
-感谢您的认可：
-| 姓名    | 支持金额              |
-| --------------------------------------- |----------- |
-| [aiyou9](https://github.com/aiyou9)     | ￥50.00、￥50.00     |
-| [lastares](https://github.com/lastares)       | ￥25.00     |
-| [MrJxySteven](https://github.com/MrJxySteven) | ￥20.00     |
-| 路人甲     | ￥50.00     |
-
-
 ## 协议
 [MIT](./LICENSE)
+
+## 托管
+> 本站点通过netlify托管，vercel、Github pages、Gitee page 都可以作为备选方案
+
+- 🍰 [netlify](https://app.netlify.com)
+- 🍰 [vercel](https://vercel.com/)
