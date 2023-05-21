@@ -94,7 +94,7 @@
 
 
 ## 后台
-将路由地址修改为 `system` 即可进入，如: https://www.nav3.cn/#/light 修改为 https://www.nav3.cn/#/system
+将路由地址修改为 `system` 即可进入，如: https://ityun.ltd/#/light 修改为 https://ityun.ltd/#/system
 
 
 ## 书签导入

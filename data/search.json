@@ -1,7 +1,7 @@
 [
   {
     "name": "站内",
-    "icon": "https://raw.sevencdn.com/dazer007/nav/image/logo.png",
+    "icon": "https://cdn.gitmirror.com/gh/dazer007/nav/image/logo.png",
     "placeholder": "站内搜索",
     "blocked": false,
     "isInner": true

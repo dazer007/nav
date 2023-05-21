@@ -91,7 +91,7 @@ For specific use, follow the steps [https://github.com/apps/vercel](https://gith
 
 
 ## Backstage
-Modify the routing address to `system`, such as: https://www.nav3.cn/#/light Change to https://www.nav3.cn/#/system
+Modify the routing address to `system`, such as: https://ityun.ltd/#/light Change to https://ityun.ltd/#/system
 
 
 ## Bookmark import
