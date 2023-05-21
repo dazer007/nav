@@ -60,6 +60,22 @@
               }
             ],
             "createdAt": "2021-01-23T01:32:06.424Z"
+          },
+          {
+            "title": "ChatGpt开发",
+            "nav" : [
+              {
+                "icon": "https://api.iowen.cn/favicon/github.com.png",
+                "name": "jiezi解字",
+                "desc": "chatgpt-jiezi管理端前端（hncboy/chatgpt-jiezi）、客户端前端（mjjh1717/chatgpt-shuowen）、客户端后端（hncboy/chatgpt-web-java）； 后台底层基于：Grt1228/chatgpt-java ",
+                "url": "https://github.com/hncboy/chatgpt-web-java",
+                "createdAt": "2021-01-23T01:32:06.424Z",
+                "urls": {},
+                "rate": 5,
+                "top": false
+              }
+            ],
+            "createdAt": "2021-01-23T01:32:06.424Z"
           }
         ],
         "createdAt": "2021-01-23T01:32:06.424Z"
